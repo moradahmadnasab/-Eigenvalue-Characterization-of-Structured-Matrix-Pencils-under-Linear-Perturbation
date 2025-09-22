@@ -40,6 +40,12 @@ This perspective connects our work to **inverse eigenvalue problems**, where one
 
 ---
 
+## 📊 Figures
+<p align="center">
+  <img src="figures/fig1.png" width="800" alt="Interval of \gamma which results in positive real $t$.">
+</p>
+
+
 ## 📄 Reference
 If you use or refer to this work, please cite:  
 
