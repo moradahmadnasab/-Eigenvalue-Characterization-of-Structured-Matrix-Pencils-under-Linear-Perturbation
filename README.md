@@ -43,7 +43,7 @@ This perspective connects our work to **inverse eigenvalue problems**, where one
 ## 📄 Reference
 If you use or refer to this work, please cite:  
 
-M. Ahmadnasab, *Eigenvalue Characterization of Some Structured Matrix Pencils under Linear Perturbation*, 2024.  
+M. Ahmadnasab and P. J. Psarrakos, *Eigenvalue Characterization of Some Structured Matrix Pencils under Linear Perturbation*, Electronic Journal of Linear Algebra, 40 (2024) 274-298.  
 
 ---
 
