@@ -1,4 +1,4 @@
-# -Eigenvalue-Characterization-of-Structured-Matrix-Pencils-under-Linear-Perturbation
+# Eigenvalue Characterization of Structured Matrix Pencils under Linear Perturbation
 
 This repository contains MATLAB implementations and numerical experiments accompanying our paper:
 
