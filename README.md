@@ -57,4 +57,8 @@ M. Ahmadnasab and P. J. Psarrakos, *Eigenvalue Characterization of Some Structur
 This repository provides MATLAB scripts for:  
 - Building structured matrix pencils and their perturbations.  
 - Numerical experiments illustrating eigenvalue characterization.  
-- Examples validating theoretical results on spectrum bounds and structure changes.  
+- Examples validating theoretical results on spectrum bounds and structure changes.
+- In mycode folder you can find a sample code among many other codes which is written to check 
+  the validity and support one of our interesting practical methods.
+   
+
