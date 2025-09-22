@@ -27,7 +27,7 @@ This perspective connects our work to **inverse eigenvalue problems**, where one
 ## ✨ Key Contributions
 - Characterization of eigenvalues of structured matrix pencils under real linear perturbations.  
 - New **bounds on the spectrum** subsets for perturbed pencils across three structured families.  
-- Identification of structural differences between continuous-time (imaginary axis) and discrete-time (unit circle) problems.  
+- Identification of structural one-to-one transformation between continuous-time (imaginary axis) and discrete-time (unit circle) problems.  
 - Application of an **inverse eigenvalue approach** to structured pencils, introducing subsets of admissible \(z\).  
 - Practical techniques suggesting how to identify **nearest block problems** with guaranteed eigenvalue existence.  
 
