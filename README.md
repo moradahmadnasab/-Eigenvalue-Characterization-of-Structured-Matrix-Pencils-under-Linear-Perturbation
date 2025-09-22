@@ -3,7 +3,7 @@
 This repository contains MATLAB implementations and numerical experiments accompanying our paper:
 
 **"Eigenvalue Characterization of Some Structured Matrix Pencils under Linear Perturbation"**  
-Morad Ahmadnasab, [Published 2024].  
+Morad Ahmadnasab and Pnayiotis J. Psarrakos, Published 2024.  
 
 ---
 
